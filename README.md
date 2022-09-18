@@ -1,9 +1,25 @@
-- 👋 Hi, I’m @LegendSeyi
+- 👋 Hi, I’m Seyi Adeyemi
 
-I cool, creative. 
-Not bounded by rules, 
+
+Imagination is the reflexion of hidden possiblities.
+
+
+As long as there is no restriction to one's imagination, there is no restriction to what one can achieve. 
+
+Welcome to my hub 😁...
+![AI and Deep Learning](https://user-images.githubusercontent.com/110699580/190907521-885161ab-c2ce-43ef-bffe-590863ff8f96.gif)
+
+Machine Learning Engineer.
+Data Scientist, systems engineer in the making...
+
+Not bounded by rules,
+
+Learning....
+
 I love to explore... 
 I am also a producer.
+
+
 Hmmm, that would be all, nice meeting you fam.
 
 
