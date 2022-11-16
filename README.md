@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Seyi Adeyemi
 
 
-Imagination is the reflexion of hidden possiblities.
+Imagination is the reflecion of hidden possiblities.
 
 
 As long as there is no restriction to one's imagination, there is no restriction to what one can achieve. 
