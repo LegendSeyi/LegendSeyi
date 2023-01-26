@@ -11,18 +11,9 @@ Welcome to my hub 😁...
 
 Machine Learning Engineer.
 Data Scientist, systems engineer in the making...
-
-Not bounded by rules,
-
 Learning....
 
 I love to explore... 
-I am also a producer.
-
-
-Hmmm, that would be all, nice meeting you fam.
-
-
 - 👀 I’m interested in data related topics, python.
 technology, machine learning, artificial intelligence 
 - 🌱 I’m currently learning data science, machine learning, backend web development with python.
