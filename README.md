@@ -1,12 +1,9 @@
 - 👋 Hi, I’m Seyi Adeyemi
 
 
-Imagination is the reflecion of hidden possiblities.
 
 
-As long as there is no restriction to one's imagination, there is no restriction to what one can achieve. 
 
-Welcome to my hub 😁...
 ![AI and Deep Learning](https://user-images.githubusercontent.com/110699580/190907521-885161ab-c2ce-43ef-bffe-590863ff8f96.gif)
 
 Machine Learning Engineer.
