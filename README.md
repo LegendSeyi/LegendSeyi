@@ -6,14 +6,14 @@
 
 ![AI and Deep Learning](https://user-images.githubusercontent.com/110699580/190907521-885161ab-c2ce-43ef-bffe-590863ff8f96.gif)
 
+Data Scientist
 Machine Learning Engineer.
-Data Scientist, systems engineer in the making...
-Learning....
+Systems engineer
+
 
 I love to explore... 
-- 👀 I’m interested in data related topics, python.
+- 👀Interested in data related topics, python.
 technology, machine learning, artificial intelligence 
-- 🌱 I’m currently learning data science, machine learning, backend web development with python.
 - 💞️ I’m looking to collaborate on projects relating to data science 
 - 📫 mail me at adeyemiseyi04@gmail.com
 - connect with me https://www.linkedin.com/in/oluwaseyi-adeyemi-33b1ab197/
