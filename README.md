@@ -6,12 +6,10 @@
 
 ![AI and Deep Learning](https://user-images.githubusercontent.com/110699580/190907521-885161ab-c2ce-43ef-bffe-590863ff8f96.gif)
 
-Data Scientist
-Machine Learning Engineer.
-Systems engineer
+Data Scientist, 
+Machine Learning Engineer,
+Product Design Engineer
 
-
-I love to explore... 
 - 👀Interested in data related topics, python.
 technology, machine learning, artificial intelligence 
 - 💞️ I’m looking to collaborate on projects relating to data science 
