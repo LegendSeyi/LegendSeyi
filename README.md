@@ -2,8 +2,6 @@
 
 
 
-
-
 ![AI and Deep Learning](https://user-images.githubusercontent.com/110699580/190907521-885161ab-c2ce-43ef-bffe-590863ff8f96.gif)
 
 Data Scientist, 
